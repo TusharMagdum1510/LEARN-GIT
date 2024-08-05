@@ -1,3 +1,5 @@
 I am testing checkout origin/main
 
 The changes aren't shown in vs code
+
+Now changes are reflected in vs code.
